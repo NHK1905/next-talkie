@@ -35,4 +35,4 @@ const AuthSocialButton: React.FC<AuthSocialButtonProps> = ({
     )
 }
 
-export default AuthSocialButton
+export default AuthSocialButton 
